@@ -25,6 +25,9 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="VARIOS" tvg-id="Eurosport 1 HD", Eurosport 1 HD
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
