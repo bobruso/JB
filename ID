@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV HD", M+ LaLigaTV HD
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV HD", M+ LaLigaTV HD opcion2
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD opcion2
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga FHD Multi", DAZN LaLiga FHD Multi
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="FÚTBOL" tvg-id="LaLiga SmartbankTV HD", LaLiga SmartbankTV HD
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
@@ -15,10 +18,13 @@ acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="BASKET" tvg-id="M+ Deportes HD", M+ Deportes HD
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones FHD", M+ Liga de Campeones FHD
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD", M+ Liga De Campeones HD
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="VARIOS" tvg-id="M+ #Vamos HD", M+ #Vamos HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="VARIOS" tvg-id="M+ #Vamos FHD", M+ #Vamos FHD
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="BASKET" tvg-id="NBA TV", NBA TV 
@@ -28,8 +34,11 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="VARIOS" tvg-id="Eurosport 1 HD", Eurosport 1 HD
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 FHD
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 2 HD", M+ Liga De Campeones 2 HD
+acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FÚTBOL" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
@@ -43,12 +52,17 @@ acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FÚTBOL" tvg-id="DAZN 1", DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FÚTBOL" tvg-id="DAZN 1 FHD", DAZN 1 FHD
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="FÚTBOL" tvg-id="DAZN 2 HD", DAZN 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 HD
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="FÚTBOL" tvg-id="DAZN 2 FHD", DAZN 2 FHD
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg-id="DAZN 2 HD", DAZN 2 HD
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN 3 HD", DAZN 3 HD
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
