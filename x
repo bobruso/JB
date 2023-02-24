@@ -281,3 +281,427 @@ http://a1.2frpp.top:80/567043096933/402931412420/1855
 #EXTINF:-1 tvg-id="" tvg-name="Vaca y Pollito 24/7" tvg-logo="" group-title="24/7",Vaca y Pollito 24/7
 http://a1.2frpp.top:80/567043096933/402931412420/1856
 
+
+
+#EXTINF:-1 ,ES: 25 TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/395452
+#EXTINF:-1 ,ES: Bailen TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/395451
+#EXTINF:-1 ,ES: Garage TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/395450
+#EXTINF:-1 ,ES: BEIN SPORTS ESPANAA
+http://partyplay.live:8080/andymagos/YgZGEs555h/45454
+#EXTINF:-1 ,ES: PPV 5 (LIVE EVENT)
+http://partyplay.live:8080/andymagos/YgZGEs555h/175073
+#EXTINF:-1 ,ES: PPV 4 (LIVE EVENT)
+http://partyplay.live:8080/andymagos/YgZGEs555h/175072
+#EXTINF:-1 ,ES: PPV 3 (LIVE EVENT)
+http://partyplay.live:8080/andymagos/YgZGEs555h/175071
+#EXTINF:-1 ,ES: PPV 1 (LIVE EVENT)
+http://partyplay.live:8080/andymagos/YgZGEs555h/175069
+#EXTINF:-1 ,ES: PPV 2 (LIVE EVENT)
+http://partyplay.live:8080/andymagos/YgZGEs555h/353102
+#EXTINF:-1 ,#V
+http://partyplay.live:8080/andymagos/YgZGEs555h/385997
+#EXTINF:-1 ,ES: M+ DAZN LALIGA 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/385088
+#EXTINF:-1 ,#0
+http://partyplay.live:8080/andymagos/YgZGEs555h/22101
+#EXTINF:-1 ,ES: 7 TV MURCIA
+http://partyplay.live:8080/andymagos/YgZGEs555h/30148
+#EXTINF:-1 ,ES: A&AMP;E
+http://partyplay.live:8080/andymagos/YgZGEs555h/22099
+#EXTINF:-1 ,ES: A3SERIES
+http://partyplay.live:8080/andymagos/YgZGEs555h/319293
+#EXTINF:-1 ,ES: AMC
+http://partyplay.live:8080/andymagos/YgZGEs555h/1068
+#EXTINF:-1 ,ES: ANDALUCIA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/22694
+#EXTINF:-1 ,ES: ANTENA 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/1066
+#EXTINF:-1 ,ES: ARAGON TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/1065
+#EXTINF:-1 ,ES: AXN
+http://partyplay.live:8080/andymagos/YgZGEs555h/1060
+#EXTINF:-1 ,ES: AXN WHITE
+http://partyplay.live:8080/andymagos/YgZGEs555h/1061
+#EXTINF:-1 ,ES: BABY TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/1059
+#EXTINF:-1 ,ES: BARCA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/1058
+#EXTINF:-1 ,ES: BE MAD TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/1055
+#EXTINF:-1 ,ES: BLAZE
+http://partyplay.live:8080/andymagos/YgZGEs555h/1053
+#EXTINF:-1 ,ES: BOING
+http://partyplay.live:8080/andymagos/YgZGEs555h/1051
+#EXTINF:-1 ,ES: BOM CINE
+http://partyplay.live:8080/andymagos/YgZGEs555h/1050
+#EXTINF:-1 ,ES: CALLE 13
+http://partyplay.live:8080/andymagos/YgZGEs555h/1047
+#EXTINF:-1 ,ES: 24H
+http://partyplay.live:8080/andymagos/YgZGEs555h/45464
+#EXTINF:-1 ,ES: CANAL COCINA
+http://partyplay.live:8080/andymagos/YgZGEs555h/1045
+#EXTINF:-1 ,ES: DECASA
+http://partyplay.live:8080/andymagos/YgZGEs555h/1043
+#EXTINF:-1 ,ES: CANAL PANDA
+http://partyplay.live:8080/andymagos/YgZGEs555h/1041
+#EXTINF:-1 ,ES: CANAL SUR
+http://partyplay.live:8080/andymagos/YgZGEs555h/30174
+#EXTINF:-1 ,ES: CANAL SUR ANDALUCIA
+http://partyplay.live:8080/andymagos/YgZGEs555h/1040
+#EXTINF:-1 ,ES: CAZA Y PESCA
+http://partyplay.live:8080/andymagos/YgZGEs555h/1038
+#EXTINF:-1 ,ES: CLAN
+http://partyplay.live:8080/andymagos/YgZGEs555h/1036
+#EXTINF:-1 ,ES: CLASSICA
+http://partyplay.live:8080/andymagos/YgZGEs555h/25647
+#EXTINF:-1 ,ES: COMEDY CENTRAL
+http://partyplay.live:8080/andymagos/YgZGEs555h/1033
+#EXTINF:-1 ,ES: COSMO
+http://partyplay.live:8080/andymagos/YgZGEs555h/1031
+#EXTINF:-1 ,ES: CRIME & INVESTIGATION
+http://partyplay.live:8080/andymagos/YgZGEs555h/22662
+#EXTINF:-1 ,ES: CUATRO
+http://partyplay.live:8080/andymagos/YgZGEs555h/1027
+#EXTINF:-1 ,ES: DAZN 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/310857
+#EXTINF:-1 ,ES: DAZN 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/310858
+#EXTINF:-1 ,ES: DAZN 4
+http://partyplay.live:8080/andymagos/YgZGEs555h/310859
+#EXTINF:-1 ,ES: DISCOVERY CHANNEL
+http://partyplay.live:8080/andymagos/YgZGEs555h/1023
+#EXTINF:-1 ,ES: DISNEY CHANNEL
+http://partyplay.live:8080/andymagos/YgZGEs555h/22093
+#EXTINF:-1 ,ES: DISNEY JR
+http://partyplay.live:8080/andymagos/YgZGEs555h/1020
+#EXTINF:-1 ,ES: DISNEY XD
+http://partyplay.live:8080/andymagos/YgZGEs555h/1019
+#EXTINF:-1 ,ES: DIVINITY
+http://partyplay.live:8080/andymagos/YgZGEs555h/1018
+#EXTINF:-1 ,ES: DKISS
+http://partyplay.live:8080/andymagos/YgZGEs555h/1017
+#EXTINF:-1 ,ES: DMAX
+http://partyplay.live:8080/andymagos/YgZGEs555h/1016
+#EXTINF:-1 ,ES: ENERGY
+http://partyplay.live:8080/andymagos/YgZGEs555h/1014
+#EXTINF:-1 ,ES: EUROSPORT 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/310854
+#EXTINF:-1 ,ES: EUROSPORT 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/310855
+#EXTINF:-1 ,ES: EXTREMADURA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/30189
+#EXTINF:-1 ,ES: FDF
+http://partyplay.live:8080/andymagos/YgZGEs555h/1005
+#EXTINF:-1 ,ES: FOX
+http://partyplay.live:8080/andymagos/YgZGEs555h/998
+#EXTINF:-1 ,ES: DAZN 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/1000
+#EXTINF:-1 ,ES: M+ CLASICOS
+http://partyplay.live:8080/andymagos/YgZGEs555h/999
+#EXTINF:-1 ,ES: GALICIA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/22658
+#EXTINF:-1 ,ES: GOL TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/989
+#EXTINF:-1 ,ES: HISTORIA
+http://partyplay.live:8080/andymagos/YgZGEs555h/987
+#EXTINF:-1 ,ES: HOLLYWOOD
+http://partyplay.live:8080/andymagos/YgZGEs555h/984
+#EXTINF:-1 ,ES: IBERALIA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/978
+#EXTINF:-1 ,ES: LA 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/976
+#EXTINF:-1 ,ES: LA 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/974
+#EXTINF:-1 ,ES: M+ LALIGA TV BAR
+http://partyplay.live:8080/andymagos/YgZGEs555h/970
+#EXTINF:-1 ,ES: LA SEXTA
+http://partyplay.live:8080/andymagos/YgZGEs555h/972
+#EXTINF:-1 ,#VAMOS
+http://partyplay.live:8080/andymagos/YgZGEs555h/967
+#EXTINF:-1 ,ES: M+ ACCION
+http://partyplay.live:8080/andymagos/YgZGEs555h/965
+#EXTINF:-1 ,ES: M+ CINE N
+http://partyplay.live:8080/andymagos/YgZGEs555h/958
+#EXTINF:-1 ,ES: M+ COMEDIA
+http://partyplay.live:8080/andymagos/YgZGEs555h/954
+#EXTINF:-1 ,ES: M+ FEST
+http://partyplay.live:8080/andymagos/YgZGEs555h/22088
+#EXTINF:-1 ,ES: M+ ESTRENOS 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/950
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES
+http://partyplay.live:8080/andymagos/YgZGEs555h/949
+#EXTINF:-1 ,ES: M+ DEPORTES 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/948
+#EXTINF:-1 ,ES: M+ DEPORTES 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/947
+#EXTINF:-1 ,ES: M+ DEPORTES 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/943
+#EXTINF:-1 ,ES: M+ DRAMA
+http://partyplay.live:8080/andymagos/YgZGEs555h/939
+#EXTINF:-1 ,ES: M+ ESTRENOS
+http://partyplay.live:8080/andymagos/YgZGEs555h/937
+#EXTINF:-1 ,ES: M+ DAZN F1
+http://partyplay.live:8080/andymagos/YgZGEs555h/935
+#EXTINF:-1 ,ES: M+ GOLF
+http://partyplay.live:8080/andymagos/YgZGEs555h/933
+#EXTINF:-1 ,ES: M+ LALIGA 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/30225
+#EXTINF:-1 ,ES: M+ LALIGA 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/30227
+#EXTINF:-1 ,ES: M+ LALIGA 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/40620
+#EXTINF:-1 ,ES: M+ LALIGA 4
+http://partyplay.live:8080/andymagos/YgZGEs555h/30230
+#EXTINF:-1 ,ES: M+ LALIGA
+http://partyplay.live:8080/andymagos/YgZGEs555h/915
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/911
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/909
+#EXTINF:-1 ,ES: M+ SERIES
+http://partyplay.live:8080/andymagos/YgZGEs555h/899
+#EXTINF:-1 ,ES: M+ SERIES 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/897
+#EXTINF:-1 ,ES: MEGA
+http://partyplay.live:8080/andymagos/YgZGEs555h/894
+#EXTINF:-1 ,ES: MEZZO LIVE
+http://partyplay.live:8080/andymagos/YgZGEs555h/892
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/964
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/963
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/962
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 4
+http://partyplay.live:8080/andymagos/YgZGEs555h/961
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 5
+http://partyplay.live:8080/andymagos/YgZGEs555h/960
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 6
+http://partyplay.live:8080/andymagos/YgZGEs555h/959
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 7
+http://partyplay.live:8080/andymagos/YgZGEs555h/30158
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 8
+http://partyplay.live:8080/andymagos/YgZGEs555h/30159
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 9
+http://partyplay.live:8080/andymagos/YgZGEs555h/30160
+#EXTINF:-1 ,ES: MOVISTAR ALQUILER 10
+http://partyplay.live:8080/andymagos/YgZGEs555h/30142
+#EXTINF:-1 ,ES: ODISEA 4K
+http://partyplay.live:8080/andymagos/YgZGEs555h/956
+#EXTINF:-1 ,ES: MTV ESPANA
+http://partyplay.live:8080/andymagos/YgZGEs555h/319382
+#EXTINF:-1 ,ES: MULTIDEPORTE
+http://partyplay.live:8080/andymagos/YgZGEs555h/884
+#EXTINF:-1 ,ES: NAT GEO
+http://partyplay.live:8080/andymagos/YgZGEs555h/880
+#EXTINF:-1 ,ES: NAT GEO WILD
+http://partyplay.live:8080/andymagos/YgZGEs555h/881
+#EXTINF:-1 ,ES: NEOX
+http://partyplay.live:8080/andymagos/YgZGEs555h/878
+#EXTINF:-1 ,ES: NICK JR
+http://partyplay.live:8080/andymagos/YgZGEs555h/876
+#EXTINF:-1 ,ES: NICKELODEON
+http://partyplay.live:8080/andymagos/YgZGEs555h/29310
+#EXTINF:-1 ,ES: NON STOP PEOPLE
+http://partyplay.live:8080/andymagos/YgZGEs555h/25611
+#EXTINF:-1 ,ES: NOVA
+http://partyplay.live:8080/andymagos/YgZGEs555h/872
+#EXTINF:-1 ,ES: ODISEA
+http://partyplay.live:8080/andymagos/YgZGEs555h/870
+#EXTINF:-1 ,ES: PARAMOUNT CHANNEL
+http://partyplay.live:8080/andymagos/YgZGEs555h/868
+#EXTINF:-1 ,ES: POPULAR TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/319391
+#EXTINF:-1 ,ES: REAL MADRID TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/864
+#EXTINF:-1 ,ES: SOMOS
+http://partyplay.live:8080/andymagos/YgZGEs555h/308360
+#EXTINF:-1 ,ES: SUNDANCE
+http://partyplay.live:8080/andymagos/YgZGEs555h/854
+#EXTINF:-1 ,ES: SYFY
+http://partyplay.live:8080/andymagos/YgZGEs555h/852
+#EXTINF:-1 ,ES: TCM
+http://partyplay.live:8080/andymagos/YgZGEs555h/849
+#EXTINF:-1 ,ES: TELE CINCO
+http://partyplay.live:8080/andymagos/YgZGEs555h/847
+#EXTINF:-1 ,ES: TELE DEPORTE
+http://partyplay.live:8080/andymagos/YgZGEs555h/845
+#EXTINF:-1 ,ES: TELE MADRID
+http://partyplay.live:8080/andymagos/YgZGEs555h/844
+#EXTINF:-1 ,ES: TEN
+http://partyplay.live:8080/andymagos/YgZGEs555h/842
+#EXTINF:-1 ,ES: TNT
+http://partyplay.live:8080/andymagos/YgZGEs555h/840
+#EXTINF:-1 ,ES: TOROS
+http://partyplay.live:8080/andymagos/YgZGEs555h/1082
+#EXTINF:-1 ,ES: TRECE
+http://partyplay.live:8080/andymagos/YgZGEs555h/1081
+#EXTINF:-1 ,ES: TV GALICIA
+http://partyplay.live:8080/andymagos/YgZGEs555h/30273
+#EXTINF:-1 ,ES: TV3 CAT
+http://partyplay.live:8080/andymagos/YgZGEs555h/25605
+#EXTINF:-1 ,ES: TVE INTERNACIONAL
+http://partyplay.live:8080/andymagos/YgZGEs555h/1080
+#EXTINF:-1 ,ES: VH1
+http://partyplay.live:8080/andymagos/YgZGEs555h/25604
+#EXTINF:-1 ,ES: VIAJAR
+http://partyplay.live:8080/andymagos/YgZGEs555h/1078
+#EXTINF:-1 ,ES: XTRM
+http://partyplay.live:8080/andymagos/YgZGEs555h/1073
+#EXTINF:-1 ,ES: ETB 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/342792
+#EXTINF:-1 ,ES: M+ DAZN LALIGA 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/385762
+#EXTINF:-1 ,ES: M+ LALIGA 5
+http://partyplay.live:8080/andymagos/YgZGEs555h/385995
+#EXTINF:-1 ,ES: CANAL SUR 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/385989
+#EXTINF:-1 ,ES: 324
+http://partyplay.live:8080/andymagos/YgZGEs555h/386226
+#EXTINF:-1 ,ES: A PUNT
+http://partyplay.live:8080/andymagos/YgZGEs555h/386225
+#EXTINF:-1 ,ES: AMC BREAK
+http://partyplay.live:8080/andymagos/YgZGEs555h/386224
+#EXTINF:-1 ,ES: AMC CRIME
+http://partyplay.live:8080/andymagos/YgZGEs555h/386223
+#EXTINF:-1 ,ES: BETEVE
+http://partyplay.live:8080/andymagos/YgZGEs555h/386222
+#EXTINF:-1 ,ES: DARK
+http://partyplay.live:8080/andymagos/YgZGEs555h/386220
+#EXTINF:-1 ,ES: DREAMWORKS
+http://partyplay.live:8080/andymagos/YgZGEs555h/386219
+#EXTINF:-1 ,ES: EL TORO TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386218
+#EXTINF:-1 ,ES: ESPORT 3 CAT
+http://partyplay.live:8080/andymagos/YgZGEs555h/386217
+#EXTINF:-1 ,ES: ETB BASQUE
+http://partyplay.live:8080/andymagos/YgZGEs555h/386216
+#EXTINF:-1 ,ES: EURONEWS
+http://partyplay.live:8080/andymagos/YgZGEs555h/386215
+#EXTINF:-1 ,ES: HORSE TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386214
+#EXTINF:-1 ,ES: LA 7
+http://partyplay.live:8080/andymagos/YgZGEs555h/386213
+#EXTINF:-1 ,ES: LA RESISTENCIA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386212
+#EXTINF:-1 ,ES: LA OTRA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386211
+#EXTINF:-1 ,ES: M+ LALIGA SMARTBANK TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386210
+#EXTINF:-1 ,ES: M+ LALIGA SMARTBANK TV 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/386209
+#EXTINF:-1 ,ES: M+ CRACKS
+http://partyplay.live:8080/andymagos/YgZGEs555h/386208
+#EXTINF:-1 ,ES: M+ DEPORTES
+http://partyplay.live:8080/andymagos/YgZGEs555h/386207
+#EXTINF:-1 ,ES: M+ DEPORTES 7
+http://partyplay.live:8080/andymagos/YgZGEs555h/386205
+#EXTINF:-1 ,ES: M+ DEPORTES 6
+http://partyplay.live:8080/andymagos/YgZGEs555h/386204
+#EXTINF:-1 ,ES: M+ DEPORTES 5
+http://partyplay.live:8080/andymagos/YgZGEs555h/386203
+#EXTINF:-1 ,ES: M+ DEPORTES 4
+http://partyplay.live:8080/andymagos/YgZGEs555h/386202
+#EXTINF:-1 ,ES: M+ LALIGA 6
+http://partyplay.live:8080/andymagos/YgZGEs555h/386198
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 9
+http://partyplay.live:8080/andymagos/YgZGEs555h/386196
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 8
+http://partyplay.live:8080/andymagos/YgZGEs555h/386195
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 7
+http://partyplay.live:8080/andymagos/YgZGEs555h/386194
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 6
+http://partyplay.live:8080/andymagos/YgZGEs555h/386193
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 4
+http://partyplay.live:8080/andymagos/YgZGEs555h/386191
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 16
+http://partyplay.live:8080/andymagos/YgZGEs555h/386190
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 15
+http://partyplay.live:8080/andymagos/YgZGEs555h/386189
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 14
+http://partyplay.live:8080/andymagos/YgZGEs555h/386188
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 13
+http://partyplay.live:8080/andymagos/YgZGEs555h/386187
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 12
+http://partyplay.live:8080/andymagos/YgZGEs555h/386186
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 11
+http://partyplay.live:8080/andymagos/YgZGEs555h/386185
+#EXTINF:-1 ,ES: M+ LIGA DE CAMPEONES 10
+http://partyplay.live:8080/andymagos/YgZGEs555h/386184
+#EXTINF:-1 ,ES: MTV 00S
+http://partyplay.live:8080/andymagos/YgZGEs555h/386183
+#EXTINF:-1 ,ES: SOL MUSIC
+http://partyplay.live:8080/andymagos/YgZGEs555h/386182
+#EXTINF:-1 ,ES: TELE SUR
+http://partyplay.live:8080/andymagos/YgZGEs555h/386181
+#EXTINF:-1 ,ES: TVG MUSIGAL
+http://partyplay.live:8080/andymagos/YgZGEs555h/386180
+#EXTINF:-1 ,ES: TVG MOMENTOS G
+http://partyplay.live:8080/andymagos/YgZGEs555h/386179
+#EXTINF:-1 ,ES: TVG INFANTIL
+http://partyplay.live:8080/andymagos/YgZGEs555h/386178
+#EXTINF:-1 ,ES: TVG EVENTOS 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/386177
+#EXTINF:-1 ,ES: TVG EVENTOS 1
+http://partyplay.live:8080/andymagos/YgZGEs555h/386176
+#EXTINF:-1 ,ES: TVG CULTURA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386175
+#EXTINF:-1 ,ES: TVG AMERICA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386174
+#EXTINF:-1 ,ES: UBEAT
+http://partyplay.live:8080/andymagos/YgZGEs555h/386173
+#EXTINF:-1 ,ES: VISION 6
+http://partyplay.live:8080/andymagos/YgZGEs555h/386357
+#EXTINF:-1 ,ES: TELE ONUBA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386356
+#EXTINF:-1 ,ES: TELE BILBAO
+http://partyplay.live:8080/andymagos/YgZGEs555h/386355
+#EXTINF:-1 ,ES: SOFY TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386353
+#EXTINF:-1 ,ES: SEVILLA FC
+http://partyplay.live:8080/andymagos/YgZGEs555h/386352
+#EXTINF:-1 ,ES: RAKUTEN 3
+http://partyplay.live:8080/andymagos/YgZGEs555h/386351
+#EXTINF:-1 ,ES: RAKUTEN 2
+http://partyplay.live:8080/andymagos/YgZGEs555h/386350
+#EXTINF:-1 ,ES: PEQUERADIO TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386348
+#EXTINF:-1 ,ES: PTV SEVILLA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386347
+#EXTINF:-1 ,ES: PTV MÁLAGA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386346
+#EXTINF:-1 ,ES: PTV GRANADA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386345
+#EXTINF:-1 ,ES: ONDA ALGECIRAS TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386344
+#EXTINF:-1 ,ES: NORTEVISION
+http://partyplay.live:8080/andymagos/YgZGEs555h/386343
+#EXTINF:-1 ,ES: MYTIME MOVIE NETWORK
+http://partyplay.live:8080/andymagos/YgZGEs555h/386342
+#EXTINF:-1 ,ES: MOLAHITS TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386341
+#EXTINF:-1 ,ES: M+ DAZN F1 4K
+http://partyplay.live:8080/andymagos/YgZGEs555h/386340
+#EXTINF:-1 ,ES: INTERALMERÍA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386339
+#EXTINF:-1 ,ES: HISPAN TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386337
+#EXTINF:-1 ,ES: DW EN ESPAÑOL
+http://partyplay.live:8080/andymagos/YgZGEs555h/386335
+#EXTINF:-1 ,ES: COMEDY DYNAMICS
+http://partyplay.live:8080/andymagos/YgZGEs555h/386334
+#EXTINF:-1 ,ES: CAZAVISIÓN
+http://partyplay.live:8080/andymagos/YgZGEs555h/386333
+#EXTINF:-1 ,ES: CANAL MÁLAGA
+http://partyplay.live:8080/andymagos/YgZGEs555h/386332
+#EXTINF:-1 ,ES: CANAL DIOCESANO TOLEDO
+http://partyplay.live:8080/andymagos/YgZGEs555h/386331
+#EXTINF:-1 ,ES: BON DIA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386329
+#EXTINF:-1 ,ES: ALCARRIA TV
+http://partyplay.live:8080/andymagos/YgZGEs555h/386328
+#EXTINF:-1 ,ES: CANAL DE LAS ESTRELLAS
+http://partyplay.live:8080/andymagos/YgZGEs555h/42099
