@@ -1,20 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD
-acestream:/
+acestream://
 7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD opcion2
-acestream:/1969c27658d4c8333ab2c0670802546121a774a5
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga FHD Multi", DAZN LaLiga FHD Multi
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="FÚTBOL" tvg-id="LaLiga SmartbankTV HD", LaLiga SmartbankTV HD
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="BASKET" tvg-id="M+ Deportes HD", M+ Deportes HD
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
