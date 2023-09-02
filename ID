@@ -1,10 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+acestream:/
+7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD opcion2
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+acestream:/1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN LaLiga FHD", DAZN LaLiga FHD
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
