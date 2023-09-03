@@ -78,10 +78,8 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 HD
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 HD
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+acestream://
+76d4087a189f847d2edbfb3979ee0e19b5b28899
 
 #EXTINF:-1 tvg-logo="" group-title="VARIOS" tvg-id="ESPN", ESPN
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
