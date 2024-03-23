@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/realmadridtv.png" group-title="FÚTBOL" tvg-id="Real Madrid TV", Real Madrid TV
+acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
+
+
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD opcion2
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
