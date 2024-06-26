@@ -3,13 +3,12 @@
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/realmadridtv.png" group-title="FÚTBOL" tvg-id="Real Madrid TV", Real Madrid TV
-acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
-
-
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD opcion2
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
+
+
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M Plus+ 1080
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M.Supercopa", M+ Supercopa
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
@@ -65,6 +64,19 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1", DAZN F1 HD opcion3
 acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
 
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg", Eurosport 1 1080
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg", Eurosport 2 1080
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg", GOL TV 1080
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP", tdp 1080
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png", beIN SPORTS
+acestream://41af6926a6010b68ba2540975761436bb077748f
 
 
