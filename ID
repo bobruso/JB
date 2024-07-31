@@ -1,11 +1,37 @@
 #EXTM3U
 
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 1", Olimpiadas 1
+acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 2", Olimpiadas 2
+acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 3", Olimpiadas 3
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 4", Olimpiadas 4
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 5", Olimpiadas 5
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 6", Olimpiadas 6
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 7", Olimpiadas 7
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 8", Olimpiadas 8
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
+
+#EXTINF: tvg-logo="https://t1.uc.ltmcdn.com/es/posts/0/3/4/todos_los_logos_de_los_juegos_olimpicos_16430_600.webp" group-title="OLIMPIADAS" tvg-id="Olimpiadas 9", Olimpiadas 9
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV FHD", M+ LaLigaTV FHD opcion2
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M Plus+ 1080
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
@@ -78,5 +104,3 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png", beIN SPORTS
 acestream://41af6926a6010b68ba2540975761436bb077748f
-
-
