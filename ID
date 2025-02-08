@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ Supercopa", M+ Supercopa
-acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ Supercopa 2", M+ Supercopa 2
-acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
-
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1
 acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1 720hd
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1 opcion2
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
@@ -27,10 +24,16 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN 1", DAZN LaLiga 
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 1", DAZN LaLiga opcion2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN 1", DAZN LaLiga op1
+acestream://cc6823f25edb580a5b6b16f9afba0a73554e045f
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="FÚTBOL" tvg-id="DAZN 1", DAZN LaLiga op2
+acestream://93c17ef124fda47d8ecce00a1296c44453000a7b
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 1", DAZN LaLiga op3
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 1", DAZN LaLiga opcion3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 1", DAZN LaLiga op4
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2
