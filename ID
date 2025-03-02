@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+acestream://86541e760681d3f51b4e9f7b4b3997beb38307b0
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1 720hd
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
