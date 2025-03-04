@@ -88,8 +88,28 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2", M+ Liga De Campeones 2 
 acestream://c070cdb701fc46bb79d17568d99fc64620443d63
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3", M+ Liga De Campeones 3 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2", M+ Liga De Campeones 2 Opción 2
+acestream://6cd53fbbf4e1cbe3e8d794ed3ffd26854af600b2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2", M+ Liga De Campeones 2 Opción 3
+acestream://c330d19436e5b56b29f3de4c1df5b5eb732d247d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2", M+ Liga De Campeones 2 Opción 4
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2", M+ Liga De Campeones 2 Opción 5
+acestream://a6592d8203205ed4156d557cf7e89cd171a0e3cd
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3", M+ Liga De Campeones 3 Opción 1
 acestream://3618edda333dad5374ac2c801f5f14483934b97d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3", M+ Liga De Campeones 3 Opción 2
+acestream://
+2dc7b50512b2038cdef3198afdad6a825a9b6a32
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3", M+ Liga De Campeones 3 Opción 3
+acestream://
+d6b1a6748c90eff83989514bf6bf010c3b87d470
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4", M+ Liga De Campeones 4 
 acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
