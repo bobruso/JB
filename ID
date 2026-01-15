@@ -7,7 +7,7 @@ acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1 opcion2
-acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 1", M+ LaLigaTV 1 opcion3
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
@@ -28,7 +28,10 @@ acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 2", M+ LaLigaTV 2
-acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 2", M+ LaLigaTV 2 op2
+acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="FÚTBOL" tvg-id="M+ LaLigaTV 3", M+ LaLigaTV 3
 acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
